@@ -1,5 +1,5 @@
 {
-  "name": "vue3-app",
+  "name": "La1 doc",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -9,6 +9,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@heroicons/vue": "^2.2.0",
+    "@tailwindcss/vite": "^4.1.13",
     "@vueuse/core": "^10.9.0",
     "ant-design-vue": "^4.1.2",
     "axios": "^1.6.8",
@@ -19,12 +21,13 @@
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/postcss": "^4.1.18",
     "@vitejs/plugin-vue": "^5.0.4",
-    "autoprefixer": "^10.4.17",
+    "autoprefixer": "^10.4.24",
     "eslint": "^8.56.0",
     "eslint-plugin-vue": "^9.20.1",
     "postcss": "^8.4.35",
-    "tailwindcss": "^4.0.0",
+    "tailwindcss": "^4.1.13",
     "typescript": "^5.3.3",
     "vite": "^5.0.11"
   }
